@@ -25,5 +25,5 @@
 
   calm/index
   vdi_ahv/index
-  HYCU/hycu_lab.rst
+  HYCU/index
 ..  example/index
