@@ -109,7 +109,7 @@ Prerequisites:	HYCU VM available in Prism Image Configurator
 	
  	2. When the console launches, you will be greeted with the initial Network setup screen in order to setup the HYCU 		static network
 
-  	parameters:
+  	3. parameters:
 	
  	- Hostname = <Part of pre-requisites>
 	
@@ -126,7 +126,8 @@ Prerequisites:	HYCU VM available in Prism Image Configurator
  	- Fill and confirm with “Enter“ button press. 
 	
 	.. Note :: that you can switch between lines by pressing the “Tab“ button.
- 	Once configured, and confirmed, wait a minute for the console to save its settings, and initialize completely
+	
+ 	4. Once configured, and confirmed, wait a minute for the console to save its settings, and initialize completely
 	
  	.. Note:: Write down the URL you will use to access the HYCU UI** ( Picture 7 )
 	
