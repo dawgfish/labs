@@ -28,12 +28,13 @@ ddf9462 an hour ago
 @michael-jastad
 @brad-gough
 209 lines (157 sloc) 9.74 KB
------------------------
+
+***********************
 Comtrade HYCU
------------------------
+***********************
 
 Overview
-++++++++
+********
 
 Welcome to the Nutanix lab for HYCU!  In this lab you will go through installing HYCU, configuring HYCU, backing up vm's, and restoring vm's.  The goal of this lab is for you to understand how HYCU works in order to demo and pitch this with your clients.
 
