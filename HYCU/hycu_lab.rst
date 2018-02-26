@@ -95,7 +95,7 @@ Prerequisites:	HYCU VM available in Prism Image Configurator
   
   .. figure:: https://s3.us-east-2.amazonaws.com/s3.nutanixtechsummit.com/hycu/images/image2.png
   
-  .. figure:: https://s3.us-east-2.amazonaws.com/s3.nutanixtechsummit.com/hycu/images/image3.png
+  .. figure:: https://s3.us-east-2.amazonaws.com/s3.nutanixtechsummit.com/hycu/images/image3.png 
   
   
   EXERCISE 2 - NETWORK AND CONTROLLER SETUP
